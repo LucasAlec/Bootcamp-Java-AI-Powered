@@ -1,6 +1,6 @@
 # Bootcamp de Desenvolvimento de Software
 
-Neste bootcamp realizei 5 desafios de projetos e seus respectivos códigos, que podem ser encontrados em suas pastas, listados abaixo:
+Neste bootcamp realizei 4 desafios de projetos e seus respectivos códigos, que podem ser encontrados em suas pastas, listados abaixo:
 
 ## Desafios de Projeto
 
@@ -12,10 +12,8 @@ Foi implementado ,neste projeto, o padrão de Spring Framework Singleton.
 ### Desafio 2: Desenvolvendo um Sistema para Eleição Usando Quarkus Framework
 Este é um sistema de eleição que permite registrar candidatos e votar, usando Quarkus.
 
-### Desafio 3: 
+### Desafio 3: Redução dos Custos em Farmácias com AWS
 
+O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-### Desafio 4: 
-
-
-### Desafio 5: 
+### Desafio 4: Publicando API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
