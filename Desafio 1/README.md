@@ -3,6 +3,8 @@
 Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
 - Singleton
 
+Este projeto é a apenas alterção de um projeto já existente!!!
+
 ## Singleton com Spring Framework
 
 No contexto do Spring Framework, todas as classes de serviço são, por padrão, singletons. Isso significa que o Spring cria uma única instância de cada classe de serviço e a reutiliza sempre que necessário.
