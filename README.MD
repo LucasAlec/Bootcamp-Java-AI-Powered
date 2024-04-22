@@ -10,7 +10,7 @@ Criar uma solução que explore o conceito de Padrões de Projeto na pŕatica.
 Foi implementado ,neste projeto, o padrão de Spring Framework Singleton.
 
 ### Desafio 2: Desenvolvendo um Sistema para Eleição Usando Quarkus Framework
-
+Este é um sistema de eleição que permite registrar candidatos e votar, usando Quarkus.
 
 ### Desafio 3: 
 
