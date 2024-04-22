@@ -17,3 +17,5 @@ Este é um sistema de eleição que permite registrar candidatos e votar, usando
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ### Desafio 4: Publicando API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
+
+O projeto consiste na criação de uma API que lida com uma lista de jogos: Criando, atualizando e deletando o que for necessário.
